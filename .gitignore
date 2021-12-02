@@ -2,3 +2,6 @@
 *.o
 *.exe
 *.class
+
+zig-cache/
+zig-out/
